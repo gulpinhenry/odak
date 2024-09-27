@@ -66,11 +66,11 @@ Human perception is extremely context dependent, where we need to adapt to vario
 As we dive deeper into light and color perception, it becomes evident that the task of replicating the natural spectrum of colors in technology is still an evolving journey. This exploration into the nature of color sets the stage for a deeper examination of how our biological systems perceive color and how technology strives to emulate that perception.
 
 
-[^1]: [Freeman, J. and Simoncelli, E.P. 2011. Metamers of the ventral stream. Nature Neuroscience 14, 1195–1201. http://dx.doi.org/10.1038/nn.2889.](https://doi.org/10.1038/nn.2889)
-[^2]: [Cleveland Clinic. 2024. Photoreceptors (Rods and Cones). Cleveland Clinic. Accessed September 27, 2024. https://my.clevelandclinic.org/-/scassets/images/org/health/articles/photoreceptors-rods-and-cones.](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/photoreceptors-rods-and-cones)
-[^3]: [Lamb, T.D. 2015. Why rods and cones? Eye 30, 179–185. http://dx.doi.org/10.1038/eye.2015.236.](https://doi.org/10.1038/eye.2015.236)
-[^4]: [Schmidt, B.P., Neitz, M., and Neitz, J. 2014. Neurobiological hypothesis of color appearance and hue perception. Journal of the Optical Society of America A 31, A195. http://dx.doi.org/10.1364/JOSAA.31.00A195.](https://doi.org/10.1364/JOSAA.31.00A195)
-[^5]: [Some experiments on the trichromatic theory of vision. 1942. Proceedings of the Royal Society of London. Series B - Biological Sciences 131, 27–50. http://dx.doi.org/10.1098/rspb.1942.0016.](https://doi.org/10.1098/rspb.1942.0016)
-[^6]: [Stockman, A. and Sharpe, L.T. 2000. The spectral sensitivities of the middle- and long-wavelength-sensitive cones derived from measurements in observers of known genotype. Vision Research 40, 1711–1737. http://dx.doi.org/10.1016/S0042-6989(00)00021-3.](https://doi.org/10.1016/S0042-6989(00)00021-3)
-[^7]: [Shevell, S.K. and Martin, P.R. 2017. Color opponency: tutorial. Journal of the Optical Society of America A 34, 1099. http://dx.doi.org/10.1364/JOSAA.34.001099.](http://dx.doi.org/10.1364/JOSAA.34.001099)
+[^1]: [Freeman, J., and Simoncelli, E.P. "Metamers of the ventral stream." Nature Neuroscience 14 (2011): 1195–1201. https://doi.org/10.1038/nn.2889.](https://doi.org/10.1038/nn.2889)
+[^2]: [Cleveland Clinic. "Photoreceptors (Rods and Cones)." Cleveland Clinic. https://my.clevelandclinic.org/-/scassets/images/org/health/articles/photoreceptors-rods-and-cones.](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/photoreceptors-rods-and-cones)
+[^3]: [Lamb, T.D. "Why rods and cones?" Eye 30 (2015): 179–185. https://doi.org/10.1038/eye.2015.236.](https://doi.org/10.1038/eye.2015.236)
+[^4]: [Schmidt, B.P., Neitz, M., and Neitz, J. "Neurobiological hypothesis of color appearance and hue perception." Journal of the Optical Society of America A 31 (2014): A195. https://doi.org/10.1364/JOSAA.31.00A195.](https://doi.org/10.1364/JOSAA.31.00A195)
+[^5]: ["Some experiments on the trichromatic theory of vision." Proceedings of the Royal Society of London. Series B - Biological Sciences 131 (1942): 27–50. https://doi.org/10.1098/rspb.1942.0016.](https://doi.org/10.1098/rspb.1942.0016)
+[^6]: [Stockman, A., and Sharpe, L.T. "The spectral sensitivities of the middle- and long-wavelength-sensitive cones derived from measurements in observers of known genotype." Vision Research 40 (2000): 1711–1737. https://doi.org/10.1016/S0042-6989(00)00021-3.](https://doi.org/10.1016/S0042-6989(00)00021-3)
+[^7]: [Shevell, S.K., and Martin, P.R. "Color opponency: tutorial." Journal of the Optical Society of America A 34 (2017): 1099. https://doi.org/10.1364/JOSAA.34.001099.](http://dx.doi.org/10.1364/JOSAA.34.001099)
 
