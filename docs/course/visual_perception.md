@@ -1,6 +1,12 @@
-## Color Science
-[Biomimetic Eye Modeling & Deep Neuromuscular Oculomotor Control](https://www.andrew.cmu.edu/user/aslakshm/pdfs/siggraph19_eye.pdf)
+# Visual Perception
+
+:octicons-info-24: Informative
+
+This section of `Computational Light course` introduces various components of human vision system, which plays a critical role in the design of camera, compute and display systems.
+
 ## Color Perception
+
+:octicons-info-24: Informative
 
 We can establish an understanding on color perception through studying its physical and perceptual meaning, so we can understand motivations behind display, computer graphic and camera technologies.
 
@@ -65,6 +71,9 @@ Human perception is extremely context dependent, where we need to adapt to vario
 ### Conclusion
 As we dive deeper into light and color perception, it becomes evident that the task of replicating the natural spectrum of colors in technology is still an evolving journey. This exploration into the nature of color sets the stage for a deeper examination of how our biological systems perceive color and how technology strives to emulate that perception.
 
+## Color Science
+[Biomimetic Eye Modeling & Deep Neuromuscular Oculomotor Control](https://www.andrew.cmu.edu/user/aslakshm/pdfs/siggraph19_eye.pdf)
+
 
 [^1]: [Freeman, J., and Simoncelli, E.P. "Metamers of the ventral stream." Nature Neuroscience 14 (2011): 1195–1201. https://doi.org/10.1038/nn.2889.](https://doi.org/10.1038/nn.2889)
 [^2]: [Cleveland Clinic. "Photoreceptors (Rods and Cones)." Cleveland Clinic. https://my.clevelandclinic.org/-/scassets/images/org/health/articles/photoreceptors-rods-and-cones.](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/photoreceptors-rods-and-cones)
@@ -73,4 +82,6 @@ As we dive deeper into light and color perception, it becomes evident that the t
 [^5]: ["Some experiments on the trichromatic theory of vision." Proceedings of the Royal Society of London. Series B - Biological Sciences 131 (1942): 27–50. https://doi.org/10.1098/rspb.1942.0016.](https://doi.org/10.1098/rspb.1942.0016)
 [^6]: [Stockman, A., and Sharpe, L.T. "The spectral sensitivities of the middle- and long-wavelength-sensitive cones derived from measurements in observers of known genotype." Vision Research 40 (2000): 1711–1737. https://doi.org/10.1016/S0042-6989(00)00021-3.](https://doi.org/10.1016/S0042-6989(00)00021-3)
 [^7]: [Shevell, S.K., and Martin, P.R. "Color opponency: tutorial." Journal of the Optical Society of America A 34 (2017): 1099. https://doi.org/10.1364/JOSAA.34.001099.](http://dx.doi.org/10.1364/JOSAA.34.001099)
+
+
 
